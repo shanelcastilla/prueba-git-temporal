@@ -1,2 +1,2 @@
-hola = "holaaaaaaa con pull"
+hola = "holaaaaaaa con push"
 print(hola)
